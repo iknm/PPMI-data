@@ -2,8 +2,6 @@
 
 **PPMI Data Mining Project**
 
-**CSE 676 – Data Mining**
-
 ## Overview
 
 This project analyzes multimodal data from the Parkinson’s Progression Markers Initiative (PPMI) to investigate disease heterogeneity and progression patterns using data mining techniques.
